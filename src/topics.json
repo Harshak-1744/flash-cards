@@ -1,0 +1,5 @@
+[
+    { "id": 1, "title": "Components", "description": "Building blocks of React applications." },
+    { "id": 2, "title": "JSX", "description": "Syntax extension for JavaScript." }
+]
+  
