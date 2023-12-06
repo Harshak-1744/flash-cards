@@ -1,5 +1,5 @@
 import React from 'react';
-import FlexCard from './FlexCard';
+import FlexCard from './components/FlexCard';
 import topics from './topics.json'; 
 
 function App() {
